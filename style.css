@@ -9,7 +9,7 @@
 
 * {
     margin:0;
-	  padding:0;
+    padding:0;
     box-sizing: border-box;
     
 }
@@ -26,9 +26,11 @@ body{
 
 }
 .form-login {
-    width: 550px;
+    width: 90%;
+    max-widht:450px;
     height: 450px;
     background: #242730d2;
+	
     margin: 25px;
     margin-top: 150px;
     box-shadow: 7px 13px 37px rgba(0, 0, 0, 0.819);
