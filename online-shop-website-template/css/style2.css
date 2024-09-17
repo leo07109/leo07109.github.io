@@ -1,0 +1,27 @@
+body {
+    background-color: bisque;
+}
+.flexer-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    align-content: space-around;
+    gap: 50px;
+    
+    
+}
+
+.item {
+    background-color:darkgray;
+    align-self: auto;
+    height: 300px;
+    width: 300px;
+    text-align:center;    
+    border-radius:10px;
+    border-style: 5px;
+      
+    
+}
+
